@@ -17,17 +17,20 @@ Here are some ideas to get you started:
 <br>
 <h2> PERFIL DE EVER </h2>
 <!--Intro start-->
-
-<p align="left">
+<img src="https://codersfree.nyc3.cdn.digitaloceanspaces.com/posts/conoce-5-lenguajes-de-programacion-basicos.jpg">
+<p align="center"><h1>
   ESTUDIANTE DE PREPARATORIA QUE LLEVA LA CARRERA DE TECNICO EN PROGRAMACION 
-  LLEVO 3 SEMESTRES CON LA CARRERA Y SE ME HACE ENTRETENIDA Y COMPLEJA AL MOMENTO DE HACER TRABAJOS O PROYECTOS 
+  LLEVO 3 SEMESTRES CON LA CARRERA Y SE ME HACE ENTRETENIDA Y COMPLEJA AL MOMENTO DE HACER TRABAJOS O PROYECTOS <br>
+  <br>
+  PURO CETIS ABAJO CONALEP 
+  <br>
 <!--Intro end-->
-  </p>
+  </p></h1>
 <br>
 <h4> LENGUAJES UTILIZADOS</h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
@@ -46,8 +49,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 
-<h4> Other Tools and Technologies </h4>
+<h4>PROGRAMAS UTLIZADOS </h4>
 <span>
+  
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 </span>
 
@@ -57,4 +61,5 @@ Here are some ideas to get you started:
    <br>
 
 </p>
+<img src="https://img.freepik.com/vector-premium/servidores-elementos-dibujos-animados-base-datos_24640-9607.jpg?w=740">
 
